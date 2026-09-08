@@ -1,10 +1,11 @@
 console.log("Hello World!");
 console.log("My name is MARIA MARY SIBY")
+console.log("Welcome to GitHub")
 var varible=value
 /*PrintHello.js
 
 multi
-lione
+line
 command */
 var name = 'Maria'
 console.log('Good Morning' ,name)
@@ -56,6 +57,3 @@ const d=3
 console.log(d)
 d=8
 console.log(d)
-
-
-console.log("Welcome to GitHub")

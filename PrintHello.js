@@ -56,3 +56,6 @@ const d=3
 console.log(d)
 d=8
 console.log(d)
+
+
+console.log("Welcome to GitHub")
